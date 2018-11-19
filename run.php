@@ -1,7 +1,7 @@
 <?php
 session_start();
 set_time_limit(0);
-$refcode = "ABCDEFG";
+$refcode = "UDYOER";
 $jml = 100;
 include 'Signature.php';
 	if(isset($refcode))
